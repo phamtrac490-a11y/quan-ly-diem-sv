@@ -50,4 +50,4 @@ ax.set_ylim(0, 10)
 st.pyplot(fig)
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: small;'>Người tạo: Nguyễn Cảnh Chương</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: small;'>Người tạo: Nguyễn Cảnh Chương MSSV : 040208007384 </p>", unsafe_allow_html=True)
